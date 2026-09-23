@@ -1,0 +1,22 @@
+# Generated payload corpus (deterministic, ~23 MB of random bytes — regenerated on first run)
+prism_payloads/
+
+# Run output / logs
+results/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Backups
+*.bak

@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+pynacl>=1.5
+# Optional: only needed for --visualize
+matplotlib>=3.8
